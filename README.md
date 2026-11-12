@@ -1,5 +1,7 @@
 # DCI-1597 Core
 
+[![CI](https://github.com/jabrahns-source/dci-1597-core/actions/workflows/ci.yml/badge.svg)](https://github.com/jabrahns-source/dci-1597-core/actions/workflows/ci.yml)
+
 **Immutable, 100% deterministic exact-arithmetic engine**  
 Even The Odds Foundry · Jacarri Sanders
 
@@ -58,6 +60,7 @@ tests/
   test_determinism.py  # bit-for-bit + identity proofs
 vercel.json
 requirements.txt
+.github/workflows/ci.yml
 ```
 
 ## Mathematical Foundation
